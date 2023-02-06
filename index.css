@@ -1,0 +1,59 @@
+.img img{
+    width: 50px;
+    height: 50px;
+    padding: 5px;
+ 
+}
+
+.img{
+ text-align: center;
+ color: rgb(41, 190, 18);
+ 
+}
+
+.img1{
+    display: none;
+    
+}
+
+.show.img1{
+    display:flex;
+    margin: auto;
+  
+}
+.show.p1{
+color: red;
+}
+
+.before{
+    background-color: yellow;
+    border: none;
+}
+
+.after{
+    background-color: green;
+    border: none;
+}
+
+.inp{
+    margin-top: 40px;
+    text-align: center;
+}
+
+.border svg{
+  width: 100px;
+  height: 100px;
+  
+
+}
+
+
+.box{
+   
+    margin-top: 20px;
+    text-align: center;
+}
+.active  {
+   border: 2px solid rgb(5, 20, 133);
+  border-radius: 15px;
+}
